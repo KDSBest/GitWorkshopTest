@@ -1,0 +1,4 @@
+[submodule "MySubmodule"]
+	path = MySubmodule
+	url = https://github.com/KDSBest/GitWorkshopTest2.git
+	branch = master
